@@ -1,0 +1,5 @@
+this is a simple input sample.
+text will be read from it.
+31 58 
+31 58 65 
+31 58 65 75 
